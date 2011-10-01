@@ -1,0 +1,1 @@
+In diesem Projekt soll die Hard- und Software für einen Hexapod entwicklet werden. Zur Berechnung und Steuerung eines Beinpaares wird ein Atmel XMEGA128A1-Prozessor verwendet. Als Servos werden Dynamixel AX-12 genutzt.
